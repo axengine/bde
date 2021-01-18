@@ -1,0 +1,9 @@
+syntax = "proto3";
+package axengine.bde.bde;
+
+option go_package = "github.com/axengine/bde/x/bde/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+}
+
